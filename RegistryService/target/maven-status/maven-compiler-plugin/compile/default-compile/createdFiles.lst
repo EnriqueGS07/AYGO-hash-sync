@@ -1,0 +1,4 @@
+com\aygo\sync\SyncApplication.class
+com\aygo\sync\RegistryService.class
+com\aygo\sync\ApiConfiguration.class
+com\aygo\sync\RegistryData.class
